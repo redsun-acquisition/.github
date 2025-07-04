@@ -1,4 +1,4 @@
-<h1 align="center">RedSun</h1>
+<h1 align="center">Redsun</h1>
 
 > [!WARNING]
 > This project is a work in progress. Use at your own risk.
